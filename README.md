@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8871e5,100:b678c4&text=Iam%20SureshKuncham&textBg=false&stroke=b678c4&fontAlign=50)
 
 ## About Me  
-I’m a full stack web developer with a strong drive to grow and take on new challenges. Over time, I’ve worked on a variety of projects that helped me sharpen both frontend and backend skills, focusing on building web sites that are easy to use, scalable, and high-performing. When I’m not coding, I love drawing and cooking—they’re great ways for me to relax and get creative. I’m always eager to learn more and be part of teams that push innovation forward. My goal is to keep improving as a developer by working on meaningful projects that solve real problems.
+Motivated and detail-oriented professional skilled in handling incidents, service requests, and system monitoring using tools like ServiceNow, Splunk, and AppDynamics. Proficient in basic SQL for data verification and issue resolution, with experience in troubleshooting, log analysis, and preparing root cause analysis (RCA) reports. Familiar with web applications and their structure, and continuously learning to grow in both support and development roles. Seeking challenging opportunities to expand technical knowledge and contribute to business success.
 
 ## Languages and Tools
 
@@ -20,6 +20,5 @@ I’m a full stack web developer with a strong drive to grow and take on new cha
 ### Connect with Me 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kuncham-suresh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kuncham%20Suresh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sureshkuncham2002@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sureshkuncham2002@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
