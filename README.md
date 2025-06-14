@@ -11,9 +11,9 @@ Motivated and detail-oriented professional skilled in handling incidents, servic
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="55" height="55"/>
 
 ### Tools:
-| Visual Studio | GitHub |
-|---------------|--------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" title="GitHub" alt="GitHub" width="55" height="55"/>
+| Visual Studio | GitHub | ServiceNow | Splunk | AppDynamics |
+|---------------|--------|------------|--------|-------------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/servicenow/servicenow-original.svg" title="ServiceNow" alt="ServiceNow" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/splunk.svg" title="Splunk" alt="Splunk" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appdynamics.svg" title="AppDynamics" alt="AppDynamics" width="55" height="55"/>
 
 ---
 
