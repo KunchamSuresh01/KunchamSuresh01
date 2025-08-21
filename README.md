@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=0:8871e5,100:b678c4&text=Iam%20SureshKuncham&textBg=false&stroke=b678c4&fontAlign=50)
 
 ## About Me  
-Motivated and detail-oriented professional skilled in handling incidents, service requests, and system monitoring using tools like ServiceNow, Splunk, and AppDynamics. Proficient in basic SQL for data verification and issue resolution, with experience in troubleshooting, log analysis, and preparing root cause analysis (RCA) reports. Familiar with web applications and their structure, and continuously learning to grow in both support and development roles. Seeking challenging opportunities to expand technical knowledge and contribute to business success.
-
+I am a recent graduate and aspiring Full Stack Web Developer with a strong passion for learning and taking on new challenges. During my academic projects and personal practice, I have built web applications that strengthened both my frontend and backend skills. I focus on creating websites that are user-friendly, scalable, and efficient. Alongside coding, I enjoy drawing and cooking, which help me stay creative and balanced. I am eager to start my career in a dynamic team where I can contribute, grow, and work on meaningful projects that solve real-world problems.
 ## Languages and Tools
 
 ### Languages and Frameworks:
@@ -11,9 +10,9 @@ Motivated and detail-oriented professional skilled in handling incidents, servic
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="SQL Server" alt="SQL Server" width="55" height="55"/>
 
 ### Tools:
-| Visual Studio | GitHub | ServiceNow | Splunk | AppDynamics |
-|---------------|--------|------------|--------|-------------|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" title="GitHub" alt="GitHub" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/servicenow/servicenow-original.svg" title="ServiceNow" alt="ServiceNow" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/splunk.svg" title="Splunk" alt="Splunk" width="55" height="55"/> | <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/appdynamics.svg" title="AppDynamics" alt="AppDynamics" width="55" height="55"/>
+| Visual Studio | GitHub |
+|---------------|--------|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="55" height="55"/> | <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/github.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |
 
 ---
 
